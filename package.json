@@ -1,0 +1,25 @@
+{
+  "name": "react-native-scan-view",
+  "version": "1.0.0",
+  "description": "- [**中文版**](https://github.com/MarnoDev/AC-QRCode-RN/blob/master/README_CN.md) - [**English Version**](https://github.com/MarnoDev/AC-QRCode-RN/blob/master/README.md)",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinooceanland/react-native-scan-view.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "gjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinooceanland/react-native-scan-view/issues"
+  },
+  "homepage": "https://github.com/sinooceanland/react-native-scan-view#readme"
+}
